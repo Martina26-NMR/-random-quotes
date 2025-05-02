@@ -31,7 +31,7 @@ Works perfectly on all screen sizes and modern devices:
 
 ## 🔗 Live Demo
 
-[View it on GitHub Pages]()
+[View it on GitHub Pages]( https://martina26-nmr.github.io/-random-quotes/)
 
 ## 👩‍💻 Author
 
